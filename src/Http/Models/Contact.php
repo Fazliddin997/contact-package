@@ -1,6 +1,6 @@
 <?php
 
-namespace Fzn\Contact\Models;
+namespace Fzdn\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
