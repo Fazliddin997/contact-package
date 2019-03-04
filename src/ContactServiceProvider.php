@@ -1,6 +1,6 @@
 <?php
 
-namespace Fzn\Contact;
+namespace Fzdn\Contact;
 use Illuminate\Support\ServiceProvider;
 
 class ContactServiceProvider extends ServiceProvider{
