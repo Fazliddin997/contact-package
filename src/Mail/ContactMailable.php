@@ -1,6 +1,6 @@
 <?php
 
-namespace Fzn\Contact\Mail;
+namespace Fzdn\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
