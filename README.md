@@ -2,4 +2,4 @@
 
 
 
-## This will sen email to admin and save contact query to database 
+## This will send email to admin and save contact query to database 
