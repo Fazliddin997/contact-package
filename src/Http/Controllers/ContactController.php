@@ -1,10 +1,10 @@
 <?php
 
-namespace Fzn\Contact\Http\Controllers;
+namespace Fzdn\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use Fzn\Contact\Mail\ContactMailable;
-use Fzn\Contact\Models\Contact;
+use Fzdn\Contact\Mail\ContactMailable;
+use Fzdn\Contact\Models\Contact;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
