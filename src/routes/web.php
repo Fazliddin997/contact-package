@@ -2,7 +2,7 @@
 
 
 //use Illuminate\Http\Request;
-Route::group(['namespace'=>'Fzn\Contact\Http\Controllers'],function (){
+Route::group(['namespace'=>'Fzdn\Contact\Http\Controllers'],function (){
 
 
 Route::get('contact','ContactController@index')->name('contact');
