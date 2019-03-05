@@ -15,5 +15,12 @@
         "psr-4": {
             "Fzdn\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Fzdn\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
