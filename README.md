@@ -15,5 +15,7 @@ MAIL_ENCRYPTION=tls    from "mailtrap.io"
     * To run on local
 
         ```php artisan serve``
+        
+5. Go to this link    http://127.0.0.1:8000/contact
    
 ## This will send email to admin and save contact query to database 
