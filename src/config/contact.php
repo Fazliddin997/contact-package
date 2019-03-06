@@ -3,5 +3,5 @@
 
 
 return [
-  'send_email_to' => 'ismoilomiliy97@gmail.com'
+  'send_email_to' => 'fazliddin18pr@gmail.com'
 ];
